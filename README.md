@@ -26,5 +26,5 @@
     Implemented NAT Gateway for secure outbound internet access from resources in the Private Subnet.
 
 # Image of Two-tier application
-  ![Screenshot]()
+  ![Screenshot](https://github.com/dineshsai14211/AWS-Two-tier-application/blob/main/two%20tier%20aws%20architecture.png)
 
