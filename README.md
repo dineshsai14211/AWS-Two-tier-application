@@ -24,3 +24,7 @@
 ## 5)Gateway Connectivity:
     Established connectivity to the internet via an Internet Gateway for resources in the Public Subnet.
     Implemented NAT Gateway for secure outbound internet access from resources in the Private Subnet.
+
+# Image of Two-tier application
+  ![Screenshot]()
+
